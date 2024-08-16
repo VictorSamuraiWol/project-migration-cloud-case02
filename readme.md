@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="src/img/aws-migration.png" alt="aws migration image" width="300">
+</p>
+
 # Projeto Cloud de uma empresa X - caso 02
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante os meus estudos do curso Extensão em Cloud na plataforma da [PROZ](https://talentocloud.joyclass.com/)
